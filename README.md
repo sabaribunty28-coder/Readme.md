@@ -48,7 +48,5 @@ Modbus HF RFID Reader (RS485-based), POC controller for Thermal Harvesting, Ener
 Unmanned Surveillance Vehicle for BHEL
 Underwater Remotely Operated Vehicle
 🎓 Education
-B.E in ECE, Anna University (KNSK College of Engineering, Nagercoil) – April 2016
-HSC (12th), Thilak Vidhyalaya School, Kalldaiakurichi, TNVL District – April 2012
-SSLC (10th), Thilak Vidhyalaya School, Kalldaiakurichi, TNVL District – April 2010
+B.E in Electronics and Communication Engineering 
 Let's connect and build something innovative together!
